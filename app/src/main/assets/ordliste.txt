@@ -1,0 +1,3 @@
+﻿ord1	besk
+ord2	desk
+ord3	pesk
